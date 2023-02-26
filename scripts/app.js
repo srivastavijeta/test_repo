@@ -1,0 +1,1 @@
+alert(`Hello the date and time is ${new Date()}`)
